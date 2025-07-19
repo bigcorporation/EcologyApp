@@ -1,0 +1,1805 @@
+{
+  "@odata.context": "https://mock.bionet.local/odata/$metadata#SpeciesSightings_CoreData",
+  "value": [
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -33.83515,
+      "Longitude": 153.293183,
+      "DateObserved": "2020-11-30",
+      "Accuracy": 99,
+      "Observer": "John Smith",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -32.953974,
+      "Longitude": 150.326369,
+      "DateObserved": "2023-11-02",
+      "Accuracy": 18,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -34.637652,
+      "Longitude": 152.858746,
+      "DateObserved": "2023-11-30",
+      "Accuracy": 94,
+      "Observer": "John Smith",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -33.358314,
+      "Longitude": 151.964049,
+      "DateObserved": "2023-09-15",
+      "Accuracy": 48,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -33.444462,
+      "Longitude": 153.247173,
+      "DateObserved": "2022-01-25",
+      "Accuracy": 26,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -32.531017,
+      "Longitude": 151.319451,
+      "DateObserved": "2018-08-05",
+      "Accuracy": 79,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -30.971799,
+      "Longitude": 150.495875,
+      "DateObserved": "2019-11-21",
+      "Accuracy": 59,
+      "Observer": "David Chen",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -31.089715,
+      "Longitude": 151.001042,
+      "DateObserved": "2019-11-18",
+      "Accuracy": 38,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -35.917848,
+      "Longitude": 150.748031,
+      "DateObserved": "2022-07-07",
+      "Accuracy": 77,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -29.617259,
+      "Longitude": 150.428184,
+      "DateObserved": "2019-03-28",
+      "Accuracy": 16,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -28.039811,
+      "Longitude": 151.854034,
+      "DateObserved": "2022-12-24",
+      "Accuracy": 75,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -29.605681,
+      "Longitude": 151.846396,
+      "DateObserved": "2019-07-29",
+      "Accuracy": 99,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -32.821481,
+      "Longitude": 152.897205,
+      "DateObserved": "2022-05-17",
+      "Accuracy": 20,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -35.419998,
+      "Longitude": 151.465669,
+      "DateObserved": "2019-11-14",
+      "Accuracy": 88,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -34.980688,
+      "Longitude": 153.336829,
+      "DateObserved": "2019-01-24",
+      "Accuracy": 5,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -34.904036,
+      "Longitude": 153.001585,
+      "DateObserved": "2020-11-16",
+      "Accuracy": 14,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -32.086905,
+      "Longitude": 153.229529,
+      "DateObserved": "2020-06-13",
+      "Accuracy": 90,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -36.654037,
+      "Longitude": 151.183701,
+      "DateObserved": "2019-08-18",
+      "Accuracy": 56,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -30.56096,
+      "Longitude": 151.781536,
+      "DateObserved": "2022-06-09",
+      "Accuracy": 19,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -30.971423,
+      "Longitude": 151.59058,
+      "DateObserved": "2021-02-11",
+      "Accuracy": 37,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -29.827736,
+      "Longitude": 150.58632,
+      "DateObserved": "2019-05-01",
+      "Accuracy": 29,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -35.605402,
+      "Longitude": 150.758199,
+      "DateObserved": "2020-05-18",
+      "Accuracy": 77,
+      "Observer": "David Chen",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -34.717447,
+      "Longitude": 153.199961,
+      "DateObserved": "2019-07-18",
+      "Accuracy": 28,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -35.654059,
+      "Longitude": 151.459466,
+      "DateObserved": "2022-12-01",
+      "Accuracy": 87,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -33.399693,
+      "Longitude": 153.916814,
+      "DateObserved": "2023-12-29",
+      "Accuracy": 32,
+      "Observer": "John Smith",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -35.115742,
+      "Longitude": 153.506611,
+      "DateObserved": "2021-04-15",
+      "Accuracy": 68,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -30.319491,
+      "Longitude": 151.179498,
+      "DateObserved": "2023-10-28",
+      "Accuracy": 87,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -36.58406,
+      "Longitude": 151.410026,
+      "DateObserved": "2021-08-30",
+      "Accuracy": 77,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -33.206163,
+      "Longitude": 150.496576,
+      "DateObserved": "2022-07-21",
+      "Accuracy": 53,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -32.295106,
+      "Longitude": 152.767397,
+      "DateObserved": "2019-04-09",
+      "Accuracy": 30,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -33.329915,
+      "Longitude": 151.757921,
+      "DateObserved": "2019-02-08",
+      "Accuracy": 70,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -34.130742,
+      "Longitude": 150.4242,
+      "DateObserved": "2023-01-15",
+      "Accuracy": 75,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -33.138692,
+      "Longitude": 152.322353,
+      "DateObserved": "2021-06-28",
+      "Accuracy": 83,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -32.318664,
+      "Longitude": 151.163396,
+      "DateObserved": "2018-12-11",
+      "Accuracy": 53,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -30.405887,
+      "Longitude": 152.94919,
+      "DateObserved": "2020-06-20",
+      "Accuracy": 73,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -35.938327,
+      "Longitude": 150.147424,
+      "DateObserved": "2021-11-16",
+      "Accuracy": 46,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -32.358935,
+      "Longitude": 153.662104,
+      "DateObserved": "2020-08-08",
+      "Accuracy": 94,
+      "Observer": "John Smith",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -35.742652,
+      "Longitude": 153.04573,
+      "DateObserved": "2023-01-07",
+      "Accuracy": 24,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -35.915474,
+      "Longitude": 153.734925,
+      "DateObserved": "2019-05-19",
+      "Accuracy": 81,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -31.825407,
+      "Longitude": 150.988479,
+      "DateObserved": "2022-08-11",
+      "Accuracy": 39,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -29.389242,
+      "Longitude": 151.661776,
+      "DateObserved": "2022-06-11",
+      "Accuracy": 10,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -30.290616,
+      "Longitude": 151.212011,
+      "DateObserved": "2022-12-23",
+      "Accuracy": 15,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -30.750241,
+      "Longitude": 150.266492,
+      "DateObserved": "2021-04-20",
+      "Accuracy": 15,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -28.004538,
+      "Longitude": 153.918396,
+      "DateObserved": "2018-12-31",
+      "Accuracy": 87,
+      "Observer": "David Chen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -34.139994,
+      "Longitude": 151.817065,
+      "DateObserved": "2021-05-04",
+      "Accuracy": 7,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -28.533818,
+      "Longitude": 153.213615,
+      "DateObserved": "2023-09-16",
+      "Accuracy": 21,
+      "Observer": "John Smith",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -34.304511,
+      "Longitude": 150.559382,
+      "DateObserved": "2022-03-06",
+      "Accuracy": 61,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -33.382989,
+      "Longitude": 153.222156,
+      "DateObserved": "2023-01-24",
+      "Accuracy": 100,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -31.953238,
+      "Longitude": 153.397748,
+      "DateObserved": "2022-08-04",
+      "Accuracy": 92,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -32.287921,
+      "Longitude": 151.758182,
+      "DateObserved": "2022-07-25",
+      "Accuracy": 26,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -31.201693,
+      "Longitude": 153.323133,
+      "DateObserved": "2019-05-13",
+      "Accuracy": 39,
+      "Observer": "John Smith",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -34.705035,
+      "Longitude": 151.99209,
+      "DateObserved": "2020-09-28",
+      "Accuracy": 18,
+      "Observer": "John Smith",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -29.822673,
+      "Longitude": 153.036728,
+      "DateObserved": "2023-03-28",
+      "Accuracy": 70,
+      "Observer": "John Smith",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -30.909519,
+      "Longitude": 152.753829,
+      "DateObserved": "2023-03-13",
+      "Accuracy": 95,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -34.754761,
+      "Longitude": 151.89887,
+      "DateObserved": "2018-11-29",
+      "Accuracy": 90,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -34.865265,
+      "Longitude": 150.457708,
+      "DateObserved": "2019-12-25",
+      "Accuracy": 11,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -30.08817,
+      "Longitude": 152.176968,
+      "DateObserved": "2021-09-14",
+      "Accuracy": 83,
+      "Observer": "John Smith",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -34.862189,
+      "Longitude": 151.503158,
+      "DateObserved": "2022-04-07",
+      "Accuracy": 55,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -31.505539,
+      "Longitude": 151.7805,
+      "DateObserved": "2021-05-25",
+      "Accuracy": 63,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -28.55593,
+      "Longitude": 151.013227,
+      "DateObserved": "2021-08-31",
+      "Accuracy": 100,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -35.763268,
+      "Longitude": 153.0152,
+      "DateObserved": "2023-08-23",
+      "Accuracy": 27,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -36.613604,
+      "Longitude": 151.191804,
+      "DateObserved": "2019-11-30",
+      "Accuracy": 21,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -35.960698,
+      "Longitude": 151.363258,
+      "DateObserved": "2021-09-27",
+      "Accuracy": 86,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -30.300282,
+      "Longitude": 151.974585,
+      "DateObserved": "2018-10-31",
+      "Accuracy": 62,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -36.142879,
+      "Longitude": 151.495433,
+      "DateObserved": "2020-10-05",
+      "Accuracy": 97,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -28.539429,
+      "Longitude": 152.813895,
+      "DateObserved": "2021-09-10",
+      "Accuracy": 54,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -32.779828,
+      "Longitude": 152.276055,
+      "DateObserved": "2021-01-30",
+      "Accuracy": 6,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -30.933371,
+      "Longitude": 153.524438,
+      "DateObserved": "2019-09-25",
+      "Accuracy": 71,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -34.018807,
+      "Longitude": 152.143621,
+      "DateObserved": "2023-02-18",
+      "Accuracy": 89,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -30.467536,
+      "Longitude": 151.895794,
+      "DateObserved": "2023-04-12",
+      "Accuracy": 5,
+      "Observer": "John Smith",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -32.263372,
+      "Longitude": 153.44302,
+      "DateObserved": "2020-04-11",
+      "Accuracy": 67,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -31.343505,
+      "Longitude": 151.35907,
+      "DateObserved": "2023-10-01",
+      "Accuracy": 55,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -36.221546,
+      "Longitude": 153.489124,
+      "DateObserved": "2022-03-28",
+      "Accuracy": 25,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -30.5174,
+      "Longitude": 152.915558,
+      "DateObserved": "2023-02-25",
+      "Accuracy": 48,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -31.945045,
+      "Longitude": 152.031509,
+      "DateObserved": "2018-12-04",
+      "Accuracy": 22,
+      "Observer": "John Smith",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -28.868491,
+      "Longitude": 153.480998,
+      "DateObserved": "2018-01-20",
+      "Accuracy": 61,
+      "Observer": "John Smith",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -28.623559,
+      "Longitude": 153.636127,
+      "DateObserved": "2019-12-23",
+      "Accuracy": 26,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -30.872275,
+      "Longitude": 150.474464,
+      "DateObserved": "2020-11-11",
+      "Accuracy": 12,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -33.976723,
+      "Longitude": 151.908659,
+      "DateObserved": "2021-12-14",
+      "Accuracy": 85,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -33.115679,
+      "Longitude": 153.322912,
+      "DateObserved": "2019-11-16",
+      "Accuracy": 20,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -34.021832,
+      "Longitude": 151.148162,
+      "DateObserved": "2018-07-24",
+      "Accuracy": 89,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -36.736197,
+      "Longitude": 151.086214,
+      "DateObserved": "2022-09-22",
+      "Accuracy": 34,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -31.348787,
+      "Longitude": 151.545412,
+      "DateObserved": "2019-05-08",
+      "Accuracy": 59,
+      "Observer": "John Smith",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -35.319469,
+      "Longitude": 150.305485,
+      "DateObserved": "2018-02-26",
+      "Accuracy": 46,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -29.393473,
+      "Longitude": 153.762278,
+      "DateObserved": "2018-02-20",
+      "Accuracy": 92,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -31.758392,
+      "Longitude": 153.561021,
+      "DateObserved": "2022-08-16",
+      "Accuracy": 68,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -35.878161,
+      "Longitude": 153.456393,
+      "DateObserved": "2020-09-17",
+      "Accuracy": 35,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -29.466527,
+      "Longitude": 153.650632,
+      "DateObserved": "2023-02-05",
+      "Accuracy": 45,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -29.152003,
+      "Longitude": 153.549051,
+      "DateObserved": "2021-03-21",
+      "Accuracy": 68,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -36.633799,
+      "Longitude": 152.92624,
+      "DateObserved": "2021-04-14",
+      "Accuracy": 51,
+      "Observer": "David Chen",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -36.632826,
+      "Longitude": 150.422631,
+      "DateObserved": "2022-01-26",
+      "Accuracy": 15,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -35.338655,
+      "Longitude": 150.095262,
+      "DateObserved": "2022-06-14",
+      "Accuracy": 7,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -33.605808,
+      "Longitude": 150.982216,
+      "DateObserved": "2020-10-07",
+      "Accuracy": 55,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -35.018708,
+      "Longitude": 153.373739,
+      "DateObserved": "2018-06-27",
+      "Accuracy": 11,
+      "Observer": "David Chen",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -34.678549,
+      "Longitude": 151.705514,
+      "DateObserved": "2019-10-19",
+      "Accuracy": 69,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -31.776539,
+      "Longitude": 151.176095,
+      "DateObserved": "2019-08-13",
+      "Accuracy": 37,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -30.468906,
+      "Longitude": 153.10676,
+      "DateObserved": "2020-02-21",
+      "Accuracy": 41,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -35.137472,
+      "Longitude": 151.278203,
+      "DateObserved": "2023-03-20",
+      "Accuracy": 57,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -35.35714,
+      "Longitude": 152.243557,
+      "DateObserved": "2020-12-07",
+      "Accuracy": 35,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -33.864479,
+      "Longitude": 150.219072,
+      "DateObserved": "2020-10-02",
+      "Accuracy": 48,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -32.22667,
+      "Longitude": 150.022014,
+      "DateObserved": "2023-07-23",
+      "Accuracy": 32,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -35.747419,
+      "Longitude": 150.119488,
+      "DateObserved": "2018-12-14",
+      "Accuracy": 40,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -31.869105,
+      "Longitude": 150.94884,
+      "DateObserved": "2019-08-26",
+      "Accuracy": 13,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -35.431645,
+      "Longitude": 150.958768,
+      "DateObserved": "2021-03-30",
+      "Accuracy": 67,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -29.289042,
+      "Longitude": 153.242432,
+      "DateObserved": "2023-12-01",
+      "Accuracy": 22,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -30.157474,
+      "Longitude": 151.823708,
+      "DateObserved": "2022-07-31",
+      "Accuracy": 37,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -34.100501,
+      "Longitude": 151.661247,
+      "DateObserved": "2022-02-27",
+      "Accuracy": 6,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -34.462791,
+      "Longitude": 153.10536,
+      "DateObserved": "2021-10-02",
+      "Accuracy": 92,
+      "Observer": "John Smith",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -32.767977,
+      "Longitude": 152.263572,
+      "DateObserved": "2019-05-14",
+      "Accuracy": 75,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -30.635453,
+      "Longitude": 150.649756,
+      "DateObserved": "2019-09-15",
+      "Accuracy": 71,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -31.352906,
+      "Longitude": 152.349154,
+      "DateObserved": "2019-07-30",
+      "Accuracy": 97,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -34.375559,
+      "Longitude": 150.759504,
+      "DateObserved": "2019-01-22",
+      "Accuracy": 24,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -36.112847,
+      "Longitude": 151.518452,
+      "DateObserved": "2018-11-25",
+      "Accuracy": 66,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -36.194438,
+      "Longitude": 151.645597,
+      "DateObserved": "2021-07-13",
+      "Accuracy": 29,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -33.167995,
+      "Longitude": 153.328034,
+      "DateObserved": "2018-02-06",
+      "Accuracy": 93,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -31.231184,
+      "Longitude": 152.528365,
+      "DateObserved": "2023-03-31",
+      "Accuracy": 21,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -36.205872,
+      "Longitude": 151.644872,
+      "DateObserved": "2021-02-21",
+      "Accuracy": 39,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -36.750369,
+      "Longitude": 152.601061,
+      "DateObserved": "2020-01-09",
+      "Accuracy": 17,
+      "Observer": "David Chen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -32.246779,
+      "Longitude": 152.698451,
+      "DateObserved": "2023-01-25",
+      "Accuracy": 29,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -28.147559,
+      "Longitude": 150.487148,
+      "DateObserved": "2022-12-24",
+      "Accuracy": 47,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -30.731048,
+      "Longitude": 151.577507,
+      "DateObserved": "2020-08-10",
+      "Accuracy": 95,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -34.870238,
+      "Longitude": 153.588665,
+      "DateObserved": "2023-07-19",
+      "Accuracy": 87,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -31.064216,
+      "Longitude": 152.972625,
+      "DateObserved": "2022-06-07",
+      "Accuracy": 63,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -33.003361,
+      "Longitude": 151.189965,
+      "DateObserved": "2019-03-29",
+      "Accuracy": 77,
+      "Observer": "David Chen",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -29.300246,
+      "Longitude": 153.990806,
+      "DateObserved": "2019-05-21",
+      "Accuracy": 31,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -33.543286,
+      "Longitude": 150.273704,
+      "DateObserved": "2019-12-29",
+      "Accuracy": 88,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -34.061039,
+      "Longitude": 152.196051,
+      "DateObserved": "2021-08-24",
+      "Accuracy": 83,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -30.092225,
+      "Longitude": 150.943622,
+      "DateObserved": "2018-01-20",
+      "Accuracy": 71,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -32.484663,
+      "Longitude": 153.313353,
+      "DateObserved": "2018-09-20",
+      "Accuracy": 13,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -33.152358,
+      "Longitude": 152.409184,
+      "DateObserved": "2019-01-02",
+      "Accuracy": 53,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -29.223466,
+      "Longitude": 153.005804,
+      "DateObserved": "2018-05-26",
+      "Accuracy": 43,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -36.584483,
+      "Longitude": 152.741827,
+      "DateObserved": "2021-09-01",
+      "Accuracy": 100,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -35.400318,
+      "Longitude": 152.418125,
+      "DateObserved": "2023-04-30",
+      "Accuracy": 78,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -35.442387,
+      "Longitude": 153.749665,
+      "DateObserved": "2021-07-08",
+      "Accuracy": 96,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -31.358669,
+      "Longitude": 152.854406,
+      "DateObserved": "2021-02-01",
+      "Accuracy": 33,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -35.538981,
+      "Longitude": 150.760778,
+      "DateObserved": "2020-01-21",
+      "Accuracy": 53,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -29.196111,
+      "Longitude": 152.21366,
+      "DateObserved": "2022-08-08",
+      "Accuracy": 93,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -33.165387,
+      "Longitude": 153.029833,
+      "DateObserved": "2022-02-03",
+      "Accuracy": 85,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -35.417875,
+      "Longitude": 151.037259,
+      "DateObserved": "2019-12-19",
+      "Accuracy": 72,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -33.254808,
+      "Longitude": 151.258405,
+      "DateObserved": "2022-08-01",
+      "Accuracy": 83,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -32.715972,
+      "Longitude": 153.247339,
+      "DateObserved": "2020-06-17",
+      "Accuracy": 36,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -33.850373,
+      "Longitude": 153.771004,
+      "DateObserved": "2021-01-07",
+      "Accuracy": 31,
+      "Observer": "John Smith",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -30.802624,
+      "Longitude": 153.089707,
+      "DateObserved": "2022-12-01",
+      "Accuracy": 89,
+      "Observer": "David Chen",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -36.948332,
+      "Longitude": 152.81643,
+      "DateObserved": "2019-12-21",
+      "Accuracy": 30,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -33.507871,
+      "Longitude": 152.672484,
+      "DateObserved": "2023-11-28",
+      "Accuracy": 24,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -30.377597,
+      "Longitude": 150.019398,
+      "DateObserved": "2023-03-15",
+      "Accuracy": 58,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -28.690997,
+      "Longitude": 150.015151,
+      "DateObserved": "2021-07-22",
+      "Accuracy": 75,
+      "Observer": "David Chen",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -35.02108,
+      "Longitude": 151.726633,
+      "DateObserved": "2022-04-06",
+      "Accuracy": 85,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -30.398322,
+      "Longitude": 150.134559,
+      "DateObserved": "2023-11-21",
+      "Accuracy": 46,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -29.872974,
+      "Longitude": 150.732386,
+      "DateObserved": "2019-07-31",
+      "Accuracy": 35,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -31.856456,
+      "Longitude": 153.338379,
+      "DateObserved": "2022-08-16",
+      "Accuracy": 15,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -31.582339,
+      "Longitude": 151.413961,
+      "DateObserved": "2022-04-24",
+      "Accuracy": 14,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -34.047588,
+      "Longitude": 153.635694,
+      "DateObserved": "2021-08-28",
+      "Accuracy": 43,
+      "Observer": "David Chen",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -28.107624,
+      "Longitude": 153.967077,
+      "DateObserved": "2021-10-19",
+      "Accuracy": 52,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -34.674059,
+      "Longitude": 153.314864,
+      "DateObserved": "2023-03-05",
+      "Accuracy": 43,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -36.247848,
+      "Longitude": 153.346619,
+      "DateObserved": "2020-11-27",
+      "Accuracy": 7,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -32.333908,
+      "Longitude": 153.186007,
+      "DateObserved": "2023-11-26",
+      "Accuracy": 8,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -35.162187,
+      "Longitude": 153.84707,
+      "DateObserved": "2022-04-08",
+      "Accuracy": 76,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -30.974075,
+      "Longitude": 152.110959,
+      "DateObserved": "2020-04-16",
+      "Accuracy": 76,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -28.566421,
+      "Longitude": 150.030845,
+      "DateObserved": "2020-03-09",
+      "Accuracy": 38,
+      "Observer": "John Smith",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -33.371511,
+      "Longitude": 151.101801,
+      "DateObserved": "2023-11-24",
+      "Accuracy": 82,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -33.608352,
+      "Longitude": 152.619745,
+      "DateObserved": "2023-07-13",
+      "Accuracy": 30,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -28.854047,
+      "Longitude": 151.705422,
+      "DateObserved": "2018-04-06",
+      "Accuracy": 79,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -31.829725,
+      "Longitude": 151.819131,
+      "DateObserved": "2023-10-02",
+      "Accuracy": 26,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -32.875557,
+      "Longitude": 151.669423,
+      "DateObserved": "2018-04-13",
+      "Accuracy": 85,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -30.493349,
+      "Longitude": 150.074812,
+      "DateObserved": "2023-04-06",
+      "Accuracy": 99,
+      "Observer": "John Smith",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -28.663445,
+      "Longitude": 151.27842,
+      "DateObserved": "2018-07-25",
+      "Accuracy": 36,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -32.467156,
+      "Longitude": 153.430997,
+      "DateObserved": "2022-06-01",
+      "Accuracy": 25,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -33.267405,
+      "Longitude": 151.154761,
+      "DateObserved": "2018-09-13",
+      "Accuracy": 61,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -31.075055,
+      "Longitude": 152.742005,
+      "DateObserved": "2021-01-12",
+      "Accuracy": 94,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -32.408297,
+      "Longitude": 153.429537,
+      "DateObserved": "2023-04-02",
+      "Accuracy": 9,
+      "Observer": "Laura Kim",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -36.60227,
+      "Longitude": 152.060632,
+      "DateObserved": "2020-10-09",
+      "Accuracy": 67,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -28.434929,
+      "Longitude": 151.808764,
+      "DateObserved": "2023-03-21",
+      "Accuracy": 84,
+      "Observer": "Bob Lee",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -33.823646,
+      "Longitude": 151.428139,
+      "DateObserved": "2022-11-29",
+      "Accuracy": 63,
+      "Observer": "Jane Doe",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -30.739155,
+      "Longitude": 153.944927,
+      "DateObserved": "2018-05-24",
+      "Accuracy": 21,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -32.618964,
+      "Longitude": 153.111998,
+      "DateObserved": "2018-08-16",
+      "Accuracy": 72,
+      "Observer": "David Chen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -33.852815,
+      "Longitude": 150.880908,
+      "DateObserved": "2022-11-15",
+      "Accuracy": 57,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -28.757994,
+      "Longitude": 150.012917,
+      "DateObserved": "2020-11-15",
+      "Accuracy": 60,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Potorous tridactylus",
+      "Latitude": -36.138934,
+      "Longitude": 150.350021,
+      "DateObserved": "2020-06-30",
+      "Accuracy": 98,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -33.747676,
+      "Longitude": 150.531335,
+      "DateObserved": "2018-11-04",
+      "Accuracy": 19,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -31.788244,
+      "Longitude": 153.254636,
+      "DateObserved": "2022-04-11",
+      "Accuracy": 36,
+      "Observer": "David Chen",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Vombatus ursinus",
+      "Latitude": -29.190848,
+      "Longitude": 151.573396,
+      "DateObserved": "2022-12-05",
+      "Accuracy": 39,
+      "Observer": "Alice Nguyen",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -32.944586,
+      "Longitude": 153.805428,
+      "DateObserved": "2018-09-01",
+      "Accuracy": 52,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -35.286719,
+      "Longitude": 151.476397,
+      "DateObserved": "2019-11-05",
+      "Accuracy": 20,
+      "Observer": "David Chen",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Dasyurus maculatus",
+      "Latitude": -29.71439,
+      "Longitude": 151.111695,
+      "DateObserved": "2022-06-03",
+      "Accuracy": 43,
+      "Observer": "National Parks Service",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -32.263677,
+      "Longitude": 152.614585,
+      "DateObserved": "2020-07-16",
+      "Accuracy": 37,
+      "Observer": "John Smith",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -35.79521,
+      "Longitude": 150.550179,
+      "DateObserved": "2022-01-09",
+      "Accuracy": 60,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -32.239848,
+      "Longitude": 152.539816,
+      "DateObserved": "2023-07-10",
+      "Accuracy": 44,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -35.234058,
+      "Longitude": 151.078388,
+      "DateObserved": "2023-05-08",
+      "Accuracy": 44,
+      "Observer": "David Chen",
+      "ThreatStatus": "Least Concern"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -34.613916,
+      "Longitude": 151.833125,
+      "DateObserved": "2018-04-22",
+      "Accuracy": 69,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Macropus rufus",
+      "Latitude": -32.272883,
+      "Longitude": 152.296973,
+      "DateObserved": "2021-06-22",
+      "Accuracy": 94,
+      "Observer": "David Chen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Petaurus norfolcensis",
+      "Latitude": -30.845751,
+      "Longitude": 153.50195,
+      "DateObserved": "2020-08-30",
+      "Accuracy": 8,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -29.730872,
+      "Longitude": 150.512116,
+      "DateObserved": "2018-08-01",
+      "Accuracy": 6,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -35.927625,
+      "Longitude": 152.423535,
+      "DateObserved": "2021-04-14",
+      "Accuracy": 89,
+      "Observer": "David Chen",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -31.491147,
+      "Longitude": 153.603634,
+      "DateObserved": "2021-01-14",
+      "Accuracy": 28,
+      "Observer": "John Smith",
+      "ThreatStatus": "Vulnerable"
+    },
+    {
+      "SpeciesName": "Pseudomys novaehollandiae",
+      "Latitude": -35.492693,
+      "Longitude": 150.381934,
+      "DateObserved": "2019-09-03",
+      "Accuracy": 11,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Critically Endangered"
+    },
+    {
+      "SpeciesName": "Phascolarctos cinereus",
+      "Latitude": -29.956366,
+      "Longitude": 153.826767,
+      "DateObserved": "2021-04-11",
+      "Accuracy": 80,
+      "Observer": "Wildlife Survey Team",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Litoria aurea",
+      "Latitude": -36.830947,
+      "Longitude": 153.545836,
+      "DateObserved": "2021-06-09",
+      "Accuracy": 54,
+      "Observer": "David Chen",
+      "ThreatStatus": "Endangered"
+    },
+    {
+      "SpeciesName": "Thylacinus cynocephalus",
+      "Latitude": -31.852824,
+      "Longitude": 153.938214,
+      "DateObserved": "2021-04-25",
+      "Accuracy": 80,
+      "Observer": "Emma Brown",
+      "ThreatStatus": "Near Threatened"
+    },
+    {
+      "SpeciesName": "Petrogale penicillata",
+      "Latitude": -34.535431,
+      "Longitude": 153.547958,
+      "DateObserved": "2022-10-11",
+      "Accuracy": 95,
+      "Observer": "FieldTech Services",
+      "ThreatStatus": "Endangered"
+    }
+  ]
+}
